@@ -1,3 +1,3 @@
 # Resident Evil
 
-Chapter 1 - Tall Oaks: Version 1.1
+Chapter 1 - Tall Oaks: Version 0.2
