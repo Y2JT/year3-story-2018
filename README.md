@@ -3,7 +3,7 @@
 Short story about the bio-terrorist events of Tall Oaks, US and China.
 
 ## Project status
-Uncomplete - Version 0.3
+Uncomplete - Version 0.4
 
 ## Chapters
 [Chapter 1 - Tall Oaks](chapter1.html): Version 1.0
@@ -14,5 +14,7 @@ Uncomplete - Version 0.3
 
 [Chapter 4 - We're Going to China](chapter4.html): Version 0.1
 
-## Github Pages Link
-[Click here](https://y2jt.github.io/year3-story-2018/)
+## Github Links
+[Github Pages](https://y2jt.github.io/year3-story-2018/)
+
+[Github Account](https://github.com/Y2JT)
