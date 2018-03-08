@@ -5,6 +5,11 @@ Short story about the bio-terrorist events of Tall Oaks, US and China.
 ## Project status
 Uncomplete - Version 0.4
 
+## Issues
+4 Issues open
+
+2 Issues closed
+
 ## Chapters
 [Chapter 1 - Tall Oaks](chapter1.html): Version 1.0
 
