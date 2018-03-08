@@ -12,7 +12,7 @@ Uncomplete - Version 0.4
 
 [Chapter 3 - The Catacombs](chapter3.html): Version 1.0
 
-[Chapter 4 - We're Going to China](chapter4.html): Version 0.1
+[Chapter 4 - We're Going to China](chapter4.html): Version 0.2
 
 ## Github Links
 [Github Pages](https://y2jt.github.io/year3-story-2018/)
