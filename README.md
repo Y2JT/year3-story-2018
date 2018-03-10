@@ -19,7 +19,7 @@ Uncomplete - Version 0.5
 
 [Chapter 4 - We're Going to China](chapter4.html)
 
-[Alternate Ending - The End of this World](alt_ending.html)
+[Alternate Ending - The End of this World](alternate_ending.html)
 
 ## Github Links
 [Github Pages](https://y2jt.github.io/year3-story-2018/)
