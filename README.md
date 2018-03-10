@@ -6,9 +6,9 @@ Short story about the bio-terrorist events of Tall Oaks, US and China.
 Uncomplete - Version 0.5
 
 ## Issues
-3 Issues open
+2 Issues open
 
-3 Issues closed
+4 Issues closed
 
 ## Chapters
 [Chapter 1 - Tall Oaks](chapter1.html)
@@ -18,6 +18,8 @@ Uncomplete - Version 0.5
 [Chapter 3 - The Catacombs](chapter3.html)
 
 [Chapter 4 - We're Going to China](chapter4.html)
+
+[Alternate Ending - The End of this World](alt_ending.html)
 
 ## Github Links
 [Github Pages](https://y2jt.github.io/year3-story-2018/)
