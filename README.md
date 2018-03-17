@@ -18,5 +18,14 @@ Short story about the bio-terrorist events of Tall Oaks, US and China.
 
 [Github Account](https://github.com/Y2JT)
 
+## Releases
+[Version 1](https://github.com/Y2JT/year3-story-2018/releases/tag/v1.0)
+
+[Version 2](https://github.com/Y2JT/year3-story-2018/releases/tag/v2.0)
+
+[Version 3](https://github.com/Y2JT/year3-story-2018/releases/tag/v3.0)
+
+[Version 4](https://github.com/Y2JT/year3-story-2018/releases/tag/v4.0)
+
 ## Issues
-[Issues/Bugs](https://github.com/Y2JT/year3-story-2018/issues)
+[Issues](https://github.com/Y2JT/year3-story-2018/issues)
